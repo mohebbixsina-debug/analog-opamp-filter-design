@@ -51,7 +51,4 @@ This checks that the notebooks are valid JSON and that the expected design files
 
 These projects are educational analog design work. The schematics and calculations are useful for reviewing design choices, simulation setup, and tradeoffs, but they should be revalidated before any real hardware implementation.
 
-## CV Summary
-
-Designed and simulated CMOS op-amp and active filter circuits using analytical sizing, frequency-response calculations, and LTspice validation.
 
